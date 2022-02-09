@@ -60,4 +60,4 @@ Fue ejecutado con version java 1.8
 	
 ## Licencia
 
-En este proyecto se usó la licencia GNU - se puede ver [LICENSE](LICENSE) para más detalles.
+En este proyecto se usó la licencia GNU - se puede ver [LICENSE](LICENSE.txt) para más detalles.
