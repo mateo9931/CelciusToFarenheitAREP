@@ -7,8 +7,8 @@ Este proyecto esta desarrollado y construido usando el framework Spark,permite c
 
 Se generaron 2 test para cada una de las operaciones a realizar donde se verifica la funcionalidad de la api
 
-![](./img/testCF.PNG)
-![](./img/test2FC.PNG)
+![](./img/testCF.png)
+![](./img/test2FC.png)
 
 ### Como Ejecutarlo?
 
