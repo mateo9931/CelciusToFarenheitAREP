@@ -3,6 +3,14 @@
 Este proyecto esta desarrollado y construido usando el framework Spark,permite consumir una api mediante web en la que se podra realizar operaciones para pasar grados Celcius a Farenheit o grados Farenheit a Celcius
 
 
+### Descripcion Arquitectura
+
+Se puede ver la arquitectura que se usa para la implementación de este servicio web, podemos ver la API  que permite consultar la operacion para pasar los grados de celcius a Farenheit, la Interface que se usa para adquirir los comportamientos de la api y una aplicación de Spark que la consume para prestar un servicio.
+
+![](./img/diagramFC.png)
+
+
+
 ### TEST
 
 Se generaron 2 test para cada una de las operaciones a realizar donde se verifica la funcionalidad de la api
